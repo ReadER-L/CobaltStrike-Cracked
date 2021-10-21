@@ -1,0 +1,6 @@
+03/28 09:57:10 UTC [metadata] 192.168.199.231 <- 192.168.199.231; computer: READER-L-PC; user: reader-l; process: rundll32.exe; pid: 1448; os: Windows; version: 6.1; beacon arch: x86 (x64)
+03/28 09:58:10 UTC [metadata] 192.168.199.231 <- 192.168.199.231; computer: READER-L-PC; user: reader-l; process: rundll32.exe; pid: 1448; os: Windows; version: 6.1; beacon arch: x86 (x64)
+03/28 09:58:04 UTC [checkin] host called home, sent: 8 bytes
+03/28 09:58:04 UTC [output]
+beacon exit.
+

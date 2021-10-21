@@ -1,0 +1,14 @@
+03/28 08:54:41 UTC [metadata] 192.168.199.231 <- 192.168.199.231; computer: READER-L-PC; user: reader-l; process: rundll32.exe; pid: 1412; os: Windows; version: 6.1; beacon arch: x86 (x64)
+03/28 08:55:41 UTC [metadata] 192.168.199.231 <- 192.168.199.231; computer: READER-L-PC; user: reader-l; process: rundll32.exe; pid: 1412; os: Windows; version: 6.1; beacon arch: x86 (x64)
+03/28 08:55:34 UTC [checkin] host called home, sent: 8 bytes
+03/28 08:55:34 UTC [output]
+beacon exit.
+
+03/28 08:59:12 UTC [input] <reader> sleep 0
+03/28 08:59:12 UTC [task] <T1029> Tasked beacon to become interactive
+03/28 08:59:17 UTC [input] <reader> shell whoami
+03/28 08:59:18 UTC [task] <T1059> Tasked beacon to run: whoami
+03/28 08:59:51 UTC [input] <reader> shell ipconfig
+03/28 08:59:51 UTC [task] <T1059> Tasked beacon to run: ipconfig
+03/28 09:33:00 UTC [input] <reader> shell ipconfig
+03/28 09:33:00 UTC [task] <T1059> Tasked beacon to run: ipconfig

@@ -1,0 +1,3 @@
+10/21 09:54:14 UTC [metadata] 172.16.56.139 <- 169.254.198.49; computer: READER-L-PC; user: reader-l; process: artifact.exe; pid: 1880; os: Windows; version: 6.1; build: 7601; beacon arch: x64 (x64)
+10/21 09:54:11 UTC [input] <reader-l> exit
+10/21 09:54:11 UTC [task] <> Tasked beacon to exit
