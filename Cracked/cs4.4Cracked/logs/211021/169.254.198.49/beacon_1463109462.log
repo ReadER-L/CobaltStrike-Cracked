@@ -1,3 +1,0 @@
-10/21 09:53:44 UTC [metadata] 172.16.56.139 <- 169.254.198.49; computer: READER-L-PC; user: reader-l; process: 3.exe; pid: 984; os: Windows; version: 6.1; build: 7601; beacon arch: x86 (x64)
-10/21 09:54:11 UTC [input] <reader-l> exit
-10/21 09:54:11 UTC [task] <> Tasked beacon to exit
